@@ -35,11 +35,16 @@
     "@babel/core": "^7.11.0",
     "@babel/runtime": "^7.11.0",
     "@react-native-community/eslint-config": "^2.0.0",
+    "@types/jest": "^26.0.9",
+    "@types/react": "^16.9.44",
+    "@types/react-native": "^0.63.4",
+    "@types/react-test-renderer": "^16.9.3",
     "babel-jest": "^26.2.2",
     "eslint": "^7.5.0",
     "jest": "^26.2.2",
     "metro-react-native-babel-preset": "^0.61.0",
-    "react-test-renderer": "16.13.1"
+    "react-test-renderer": "16.13.1",
+    "typescript": "^3.9.7"
   },
   "jest": {
     "preset": "react-native"
